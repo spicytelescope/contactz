@@ -12,6 +12,16 @@
 
 > A small app meant to test a Vue SPA with PWA support.
 
+## Features 
+
+Contactz's aim is to show off some contact's card (which are fakes), add and remove some from a centralised firebase db.
+Anyone can add his own contact's card, a "Contactz" !
+
+For the security concerns, the DB's URL is visible as the collection is meant to be public. 
+*This app is basically a POC for web's skills.*
+
+Feel free to contact me if you've got any questions. Hope you **enjoy** ! 
+
 ## Project setup
 
 ```bash
