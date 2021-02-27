@@ -1,6 +1,6 @@
 module.exports = {
   transpileDependencies: ['vuetify'],
-
+  publicPath: '/contactz/',
   pluginOptions: {
     i18n: {
       locale: 'en',
