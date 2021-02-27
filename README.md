@@ -4,6 +4,7 @@
 
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/last-commit/spicytelescope/contactz">
 <img src="https://github.com/spicytelescope/contactz/actions/workflows/gh-pages-deploy.yml/badge.svg" alt="(https://github.com/spicytelescope/contactz/actions/workflows/gh-pages-deploy.yml">
+<img src="https://github.com/spicytelescope/contactz/actions/workflows/update-npm-packages.yml/badge.svg" alt="https://github.com/spicytelescope/contactz/actions/workflows/update-npm-packages.yml">
 
 </p>
 
