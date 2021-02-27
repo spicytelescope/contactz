@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/contactz/precache-manifest.044e8b6adf7f9a104e9b2c02fc75eb51.js"
+  "/contactz/precache-manifest.9a4bf4ac1ffd67ef84b179b41bca67ad.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Contactz"});
