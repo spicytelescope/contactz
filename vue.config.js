@@ -1,6 +1,6 @@
 module.exports = {
   transpileDependencies: ['vuetify'],
-  publicPath: '/contactz/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/contactz/' : '/',
   pluginOptions: {
     i18n: {
       locale: 'en',
