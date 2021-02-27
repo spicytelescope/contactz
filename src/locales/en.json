@@ -1,0 +1,27 @@
+{
+  "shuffle": "shuffle",
+  "search": "Search a contact ...",
+  "form": {
+    "title": "Contact Form",
+    "fields": {
+      "first_name": "First name*",
+      "last_name": "Last name*",
+      "email": "Email*",
+      "avatar": "URL to the profil pic*"
+    },
+    "close_btn": "close",
+    "reset_btn": "reset",
+    "confirm_btn": "confirm",
+    "required_text": "*indicates required field"
+  },
+  "settings": {
+    "theme": "Toggle Dark Theme"
+  },
+  "card": {
+    "info_btn": "Learn more",
+    "delete_btn": "Delete"
+  },
+  "contact": {
+    "lorem": "A self-starter and quick learner. Versatile skill set with experience in customer service, sales, and written and oral communication. Received multiple awards for excellence in customer service. Recognized skills in mentoring, mediating between employees, and in leading team projects."
+  }
+}
